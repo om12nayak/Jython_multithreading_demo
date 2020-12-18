@@ -1,5 +1,8 @@
 # Jython_multithreading_demo
 
+#### Why?
+- Python has GIL which prevents multithread python programs from taking the full advantage of multiprocessor systems.
+
 #### Requirements:
 -	You should have JDK 7 or above, from (https://www.oracle.com/in/java/technologies/javase-downloads.html)
 -	You should install the recent Jython version, from (https://www.jython.org/installation.html)
