@@ -6,7 +6,7 @@ Requirements:
 
 To run:
 -       You can go to the bin folder where jython is installed, for e.g., C:\xx_y\jython2.7.2\bin and run the following (or you can just add in env variables)
-        ```jython jython_threading_example.py```
+```jython jython_threading_example.py```
 
 Note:
 -	When you run with Jython , the python threading module also gives the same result, as Jython converts python threading module to Java thread.
