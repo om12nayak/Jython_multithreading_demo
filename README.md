@@ -5,8 +5,8 @@ Requirements:
 -	You should install the recent Jython version, from (https://www.jython.org/installation.html)
 
 To run:
--       You can go to the bin folder where jython is installed, for e.g., C:\xx_y\jython2.7.2\bin and run the following (or you can just add in env variables)
-```
+- You can go to the bin folder where jython is installed, for e.g., C:\xx_y\jython2.7.2\bin and run the following (or you can just add in env variables)
+```python
 jython jython_threading_example.py
 ```
 
